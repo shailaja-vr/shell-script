@@ -2,7 +2,7 @@
 
 for i in {0..5}
 do
-    echo $!
+    echo $i
 done
 
 # echo 1
